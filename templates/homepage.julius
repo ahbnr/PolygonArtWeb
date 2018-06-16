@@ -1,0 +1,20 @@
+$(function() {
+  $( "#accordion" ).accordion({
+    collapsible: true,
+    active: false
+  });
+
+  $('#genButton').click(function() {
+    var seed = Math.floor(Math.random() * 4294967296);
+    $('#seedInput').val(seed);
+
+    $('#svgImage').attr('src', '/image/' + seed);
+  });
+
+  $('#advGenButton').click(function() {
+    var seed = parseInt($('#seedInput').val(), 10);
+
+    $('#svgImage').attr('src', '/image/' + seed);
+  });
+});
+

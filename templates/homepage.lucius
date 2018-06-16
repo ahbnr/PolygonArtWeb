@@ -1,0 +1,12 @@
+#svgImage {
+  width: 80%;
+  max-height:80%;
+}
+
+#genButton {
+  width: 100%;
+}
+
+#advGenButton {
+  margin-top: 0.9em;
+}
