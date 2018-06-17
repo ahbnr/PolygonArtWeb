@@ -1,5 +1,7 @@
 # PolygonArt / TriangleArt Web Service
 
+![Screenshot of the Web interface](data/demo.png)
+
 Web interface for comfortable usage and testing of [my polygon 'art' generator](https://github.com/ahbnr/PolygonArt).
 See the generator's GitHub page for further information.
 
