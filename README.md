@@ -16,6 +16,7 @@ See the generator's GitHub page for further information.
 ```console
 git clone https://github.com/ahbnr/PolygonArtWeb.git
 cd PolygonArtWeb
+stack build
 xdg-open "http://localhost:3000" && stack exec PolygonArtWeb
 ```
 
@@ -37,7 +38,8 @@ pacman -S stack
 stack build
 ```
 
-[Further information](http://www.yesodweb.com/) on developing with the Yesod Web Framework.
+Further information on developing with the Yesod Web Framework
+can be found [here](http://www.yesodweb.com/).
 
 ## Usage
 You can run the server like this:
