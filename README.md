@@ -5,6 +5,8 @@
 Web interface for comfortable usage and testing of [my polygon 'art' generator](https://github.com/ahbnr/PolygonArt).
 See the generator's GitHub page for further information.
 
+Written in Haskell with the [Yesod framework](https://www.yesodweb.com/).
+
 ## Table of Contents
 * [TL;DR](#tldr)
 * [Prerequisites](#prerequisites)
