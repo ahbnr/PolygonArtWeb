@@ -41,7 +41,7 @@ packages:
 # (e.g., acme-missiles-0.3)
 extra-deps:
 - git: git@github.com:ahbnr/PolygonArt.git
-  commit: c2e652b713acc6415ff317427897f0aaec87cc8b
+  commit: 87dcfbb8eabb21a495148f5347a01e6e41fd43ec
 
 # Override default flag values for local packages and extra-deps
 # flags: {}
